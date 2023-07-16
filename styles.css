@@ -1,0 +1,25 @@
+* {
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+
+
+form {
+    text-align: center;
+    font-size: large;
+}
+
+label {
+    
+    margin: 2rem;
+    
+  }
+
+  img {
+    width: 200px;
+    max-height: 300px;
+  }
+
+  
+
